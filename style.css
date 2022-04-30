@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 255, 213);
+}
+
+h1{
+    text-align: center;
+    color: rgb(4, 41, 0);
+}
+
+img{
+    width: 400px;
+    margin: 30px;
+    transition: 1s;
+    border: 3px solid rgb(255, 0, 221);
+}
+
+img:hover {
+    width: 400px;
+    margin: 0;
+}
+
+a{
+    font-size: 30px;
+    color: rgb(4, 41, 0);
+
+}
